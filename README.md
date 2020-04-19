@@ -1,4 +1,4 @@
-<h1 align = "center">Blob-Wars</h1>
+<h1 align = "center">Circle based on CromulentCode blob war</h1>
 
 This is a browser based game developed using javascript. It is a clone of the famous game agar.io in which you start of as a small blob and the aim of the game is to eat 'food' around you to get bigger. You can also eat other players smaller than you to grow bigger in size. When you get eaten a 'Game Over' screen is displayed after restarting you again as a small blob.
 
